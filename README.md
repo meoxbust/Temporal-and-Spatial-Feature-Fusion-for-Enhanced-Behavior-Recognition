@@ -34,3 +34,13 @@ Raising Hand – was constructed to facilitate comparison and evaluation of the 
 │  
 └── src    <- The data picked for testing, training
 ```
+# Requirements
+To install requirements:
+```
+pip install -r requirements.txt
+```
+# Training and Evaluation
++ Clone this respository
++ Download processed data in [link](https://drive.google.com/drive/folders/1ole-QiwEmbxL-BLlR_cgPoCali2VwBVZ?usp=drive_link)
++ Change paths to test, train, validation dataset in "main_data" directory
++ Run all the models to get results
