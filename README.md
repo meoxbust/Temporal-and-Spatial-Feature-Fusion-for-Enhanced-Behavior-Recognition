@@ -40,7 +40,9 @@ To install requirements:
 pip install -r requirements.txt
 ```
 # Training and Evaluation
-+ Clone this respository
++ Clone this repository
 + Download processed data in [link](https://drive.google.com/drive/folders/1ole-QiwEmbxL-BLlR_cgPoCali2VwBVZ?usp=drive_link)
-+ Change paths to test, train, validation dataset in "main_data" directory
++ Change paths to test, train, validation dataset in the "main_data" directory
 + Run all the models to get results
+# Result
+![Confusion matrix](https://github.com/meoxbust/Temporal-and-Spatial-Feature-Fusion-for-Enhanced-Behavior-Recognition/blob/main/assets/result.png)
